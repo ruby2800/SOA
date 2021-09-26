@@ -1,4 +1,5 @@
-# I didn't follow robocop rules in complexity, because after I tried it, I still think this one is more easy to understand the logic
+# I didn't follow robocop rules in complexity
+# after I tried it, I still think this one is easier to understand the logic
 def fizzbuzz(size)
   arr = (1..size).to_a
   arr.map do |x|
